@@ -66,4 +66,4 @@ Wilson, R. (2026). *BR☯AI Longitudinal Collaboration Cases* (v0.1).
 
 ## Contact
 
-Discussion, critique and replication are welcome.
+Discussion, critique and replication are welcome: info@dalcenori.com
