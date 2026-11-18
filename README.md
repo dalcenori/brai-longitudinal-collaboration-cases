@@ -1,18 +1,3 @@
----
-license: cc-by-4.0
-language:
-- en
-pretty_name: BR☯AI — One Year of Continuous Human–AI Collaboration
-tags:
-- human-ai-collaboration
-- long-horizon
-- continuity
-- drift
-- recovery
-size_categories:
-- n<1K
----
-
 # BR☯AI — One Year of Continuous Human–AI Collaboration
 
 **Author:** Rob Wilson, Dalcenori Enterprises · **Version:** 0.2 · **Released:** November 2026
